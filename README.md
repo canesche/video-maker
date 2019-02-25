@@ -1,2 +1,2 @@
 # video-maker
-Project Open Source to do automated video 
+Project Open Source to make automated video 
